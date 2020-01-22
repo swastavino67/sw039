@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h4> Where to start?</h4>
+    <input type ="text" id="start" 
+  value=-10 />
+    <h4>Where to end?</h4>
+    <input type ="text" id="end" 
+  value=20 />
+    <button onclick="myloop()"> Loop ME!</button>
+  </body>
+</html>
